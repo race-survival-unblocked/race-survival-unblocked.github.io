@@ -46,7 +46,7 @@ const games = [
       "title": "DogeMiner",
       "Categories": ["Clicker", "Popular"]
     }, {
-      "url": "https://gtst1.github.io/dogeminer2/",
+      "url": "https://15serge.github.io/dogeminer2/",
       "image": "/img/doge-miner-2.png",
       "title": "DogeMiner 2",
       "Categories": ["Clicker", "Popular"]

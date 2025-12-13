@@ -251,181 +251,181 @@ const games = [
       "title": "OvO 3",
       "Categories": ["Parkour", "Popular"]
     }, {
-      "url": "/gms/tiny-fishing/",
-      "image": "/img/tiny-fishing.png",
-      "title": "Tiny Fishing",
-      "Categories": ["Clicker", "Casual"]
-    }, {
-      "url": "/gms/drive-mad/",
-      "image": "/img/drivemad.png",
-      "title": "Drive Mad",
-      "Categories": ["Car", "Action", "Popular"]
-    }, {
-      "url": "/gms/bitlife/",
-      "image": "/img/bitlife.png",
-      "title": "Bitlife",
-      "Categories": ["Popular", "Casual"]
-    }, {
-      "url": "/gms/ballistic-chickens/",
-      "image": "/img/ballistic-chickens.png",
-      "title": "Ballistic Chickens",
-      "Categories": ["Action"]
-    }, {
-      "url": "/gms/flappy-bird/",
-      "image": "/img/flappy-bird.png",
-      "title": "Flappy Bird",
-      "Categories": ["Parkour"]
-    }, {
-      "url": "/gms/awesome-tanks/",
-      "image": "/img/awesome-tanks.png",
-      "title": "Awesome Tanks",
-      "Categories": ["Action", "Shooter"]
-    }, {
-      "url": "/gms/awesome-tanks2/",
-      "image": "/img/awesome-tanks-2.png",
-      "title": "Awesome Tanks 2",
-      "Categories": ["Action", "Shooter"]
-    }, {
-      "url": "/gms/missiles/",
-      "image": "/img/missiles.png",
-      "title": "Missiles",
-      "Categories": ["Casual"]
-    }, {
-      "url": "/gms/cookie-clicker/",
-      "image": "/img/cookie-clicker.png",
-      "title": "Cookie Clicker",
-      "Categories": ["Clicker", "Casual"]
-    }, {
-      "url": "/gms/flash/?game=SWF/btd5.swf",
-      "image": "/img/btd5.png",
-      "title": "Bloons TD5",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/sketchbook-0.4/",
-      "image": "/img/sketchbook.png",
-      "title": "Sketchbook 0.4",
-      "Categories": ["Casual"]
-    }, {
-      "url": "/gms/among-us/",
-      "image": "/img/among-us.png",
-      "title": "Among Us",
-      "Categories": ["Action", "Popular"]
-    }, {
-      "url": "/gms/drift-boss/",
-      "image": "/img/drift-boss.png",
-      "title": "Drift Boss",
-      "Categories": ["Car", "Popular"]
-    }, {
-      "url": "/gms/drift-hunters/",
-      "image": "/img/drift-hunters.png",
-      "title": "Drift Hunters",
-      "Categories": ["Car", "Popular"]
-    }, {
-      "url": "/gms/stack/",
-      "image": "/img/stack.png",
-      "title": "Stack",
-      "Categories": ["Popular"]
-    }, {
-      "url": "/gms/snowball.io/",
-      "image": "/img/snowball-io.png",
-      "title": "Snowball.io",
-      "Categories": ["io", "Multiplayer", "Popular"]
-    }, {
-      "url": "/gms/slope/",
-      "image": "/img/slope.png",
-      "title": "Slope",
-      "Categories": ["Parkour", "Popular"]
-    }, {
-      "url": "/gms/basket-random/",
-      "image": "/img/basket-random.png",
-      "title": "Basket Random",
-      "Categories": ["Sports", "Popular"]
-    }, {
-      "url": "/gms/basketbros-io/",
-      "image": "/img/basketbros-io.jpg",
-      "title": "Basket Bros.io",
-      "Categories": ["Sports", "Popular", "io"]
-    }, {
-      "url": "/gms/basketball-stars/",
-      "image": "/img/basketball-stars.png",
-      "title": "Basketball Stars",
-      "Categories": ["Sports"]
-    }, {
-      "url": "/gms/draw-the-hill/",
-      "image": "/img/draw-the-hill.png",
-      "title": "Draw the Hill",
-      "Categories": ["Casual"]
-    }, {
-      "url": "/gms/duck-life-1/",
-      "image": "/img/ducklife1.png",
-      "title": "Duck Life 1",
-      "Categories": ["Flash", "Casual", "Popular"]
-    }, {
-      "url": "/gms/duck-life-2/",
-      "image": "/img/ducklife2.png",
-      "title": "Duck Life 2",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/duck-life-3/",
-      "image": "/img/ducklife3.png",
-      "title": "Duck Life 3",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/duck-life-4/",
-      "image": "/img/ducklife4.png",
-      "title": "Duck Life 4",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/flash/?game=SWF/duck-life-treasure-hunt.swf",
-      "image": "/img/ducklife5.png",
-      "title": "Duck Life 5",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/flash/?game=SWF/learntofly.swf",
-      "image": "/img/learn-to-fly.png",
-      "title": "Learn to Fly",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/flash/?game=SWF/learntofly2.swf",
-      "image": "/img/learn-to-fly-2.png",
-      "title": "Learn to Fly 2",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/flash/?game=SWF/learntofly3.swf",
-      "image": "/img/learn-to-fly-3.png",
-      "title": "Learn to Fly 3",
-      "Categories": ["Flash", "Casual"]
-    }, {
-      "url": "/gms/baldis-basics/",
-      "image": "/img/baldis-basics.png",
-      "title": "Baldi's Basics",
-      "Categories": ["Horror"]
-    }, {
-      "url": "/gms/time-shooter-2/",
-      "image": "/img/time-shooter-2.png",
-      "title": "Time Shooter 2",
-      "Categories": ["Action", "Shooter"]
-    }, {
-      "url": "/gms/time-shooter-3/",
-      "image": "/img/time-shooter-3.png",
-      "title": "Time Shooter 3",
-      "Categories": ["Action", "Shooter", "Popular"]
-    }, {
-      "url": "/gms/superhot/",
-      "image": "/img/superhot.png",
-      "title": "Superhot",
-      "Categories": ["Action", "Shooter"]
-    }, {
-      "url": "/gms/funny-shooter-2/",
-      "image": "/img/funny-shooter-2.png",
-      "title": "Funny Shooter 2",
-      "Categories": ["Action", "Shooter"]
-    }, {
-      "url": "/gms/doom-1993/",
-      "image": "/img/doom-1993.png",
-      "title": "Doom 1993",
-      "Categories": ["Action", "Shooter"]
-    }, {
+  "url": "/gms/2/tiny-fishing/",
+  "image": "/img/tiny-fishing.png",
+  "title": "Tiny Fishing",
+  "Categories": ["Clicker", "Casual"]
+}, {
+  "url": "/gms/2/drive-mad/",
+  "image": "/img/drivemad.png",
+  "title": "Drive Mad",
+  "Categories": ["Car", "Action", "Popular"]
+}, {
+  "url": "/gms/2/bitlife/",
+  "image": "/img/bitlife.png",
+  "title": "Bitlife",
+  "Categories": ["Popular", "Casual"]
+}, {
+  "url": "/gms/2/ballistic-chickens/",
+  "image": "/img/ballistic-chickens.png",
+  "title": "Ballistic Chickens",
+  "Categories": ["Action"]
+}, {
+  "url": "/gms/2/flappy-bird/",
+  "image": "/img/flappy-bird.png",
+  "title": "Flappy Bird",
+  "Categories": ["Parkour"]
+}, {
+  "url": "/gms/2/awesome-tanks/",
+  "image": "/img/awesome-tanks.png",
+  "title": "Awesome Tanks",
+  "Categories": ["Action", "Shooter"]
+}, {
+  "url": "/gms/2/awesome-tanks2/",
+  "image": "/img/awesome-tanks-2.png",
+  "title": "Awesome Tanks 2",
+  "Categories": ["Action", "Shooter"]
+}, {
+  "url": "/gms/2/missiles/",
+  "image": "/img/missiles.png",
+  "title": "Missiles",
+  "Categories": ["Casual"]
+}, {
+  "url": "/gms/2/cookie-clicker/",
+  "image": "/img/cookie-clicker.png",
+  "title": "Cookie Clicker",
+  "Categories": ["Clicker", "Casual"]
+}, {
+  "url": "/gms/1/flash/?game=SWF/btd5.swf",
+  "image": "/img/btd5.png",
+  "title": "Bloons TD5",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/2/sketchbook-0.4/",
+  "image": "/img/sketchbook.png",
+  "title": "Sketchbook 0.4",
+  "Categories": ["Casual"]
+}, {
+  "url": "/gms/2/among-us/",
+  "image": "/img/among-us.png",
+  "title": "Among Us",
+  "Categories": ["Action", "Popular"]
+}, {
+  "url": "/gms/2/drift-boss/",
+  "image": "/img/drift-boss.png",
+  "title": "Drift Boss",
+  "Categories": ["Car", "Popular"]
+}, {
+  "url": "/gms/2/drift-hunters/",
+  "image": "/img/drift-hunters.png",
+  "title": "Drift Hunters",
+  "Categories": ["Car", "Popular"]
+}, {
+  "url": "/gms/2/stack/",
+  "image": "/img/stack.png",
+  "title": "Stack",
+  "Categories": ["Popular"]
+}, {
+  "url": "/gms/2/snowball.io/",
+  "image": "/img/snowball-io.png",
+  "title": "Snowball.io",
+  "Categories": ["io", "Multiplayer", "Popular"]
+}, {
+  "url": "/gms/2/slope/",
+  "image": "/img/slope.png",
+  "title": "Slope",
+  "Categories": ["Parkour", "Popular"]
+}, {
+  "url": "/gms/2/basket-random/",
+  "image": "/img/basket-random.png",
+  "title": "Basket Random",
+  "Categories": ["Sports", "Popular"]
+}, {
+  "url": "/gms/2/basketbros-io/",
+  "image": "/img/basketbros-io.jpg",
+  "title": "Basket Bros.io",
+  "Categories": ["Sports", "Popular", "io"]
+}, {
+  "url": "/gms/2/basketball-stars/",
+  "image": "/img/basketball-stars.png",
+  "title": "Basketball Stars",
+  "Categories": ["Sports"]
+}, {
+  "url": "/gms/2/draw-the-hill/",
+  "image": "/img/draw-the-hill.png",
+  "title": "Draw the Hill",
+  "Categories": ["Casual"]
+}, {
+  "url": "/gms/2/duck-life-1/",
+  "image": "/img/ducklife1.png",
+  "title": "Duck Life 1",
+  "Categories": ["Flash", "Casual", "Popular"]
+}, {
+  "url": "/gms/2/duck-life-2/",
+  "image": "/img/ducklife2.png",
+  "title": "Duck Life 2",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/2/duck-life-3/",
+  "image": "/img/ducklife3.png",
+  "title": "Duck Life 3",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/2/duck-life-4/",
+  "image": "/img/ducklife4.png",
+  "title": "Duck Life 4",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/1/flash/?game=SWF/duck-life-treasure-hunt.swf",
+  "image": "/img/ducklife5.png",
+  "title": "Duck Life 5",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/1/flash/?game=SWF/learntofly.swf",
+  "image": "/img/learn-to-fly.png",
+  "title": "Learn to Fly",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/1/flash/?game=SWF/learntofly2.swf",
+  "image": "/img/learn-to-fly-2.png",
+  "title": "Learn to Fly 2",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/1/flash/?game=SWF/learntofly3.swf",
+  "image": "/img/learn-to-fly-3.png",
+  "title": "Learn to Fly 3",
+  "Categories": ["Flash", "Casual"]
+}, {
+  "url": "/gms/2/baldis-basics/",
+  "image": "/img/baldis-basics.png",
+  "title": "Baldi's Basics",
+  "Categories": ["Horror"]
+}, {
+  "url": "/gms/2/time-shooter-2/",
+  "image": "/img/time-shooter-2.png",
+  "title": "Time Shooter 2",
+  "Categories": ["Action", "Shooter"]
+}, {
+  "url": "/gms/2/time-shooter-3/",
+  "image": "/img/time-shooter-3.png",
+  "title": "Time Shooter 3",
+  "Categories": ["Action", "Shooter", "Popular"]
+}, {
+  "url": "/gms/2/superhot/",
+  "image": "/img/superhot.png",
+  "title": "Superhot",
+  "Categories": ["Action", "Shooter"]
+}, {
+  "url": "/gms/2/funny-shooter-2/",
+  "image": "/img/funny-shooter-2.png",
+  "title": "Funny Shooter 2",
+  "Categories": ["Action", "Shooter"]
+}, {
+  "url": "/gms/2/doom-1993/",
+  "image": "/img/doom-1993.png",
+  "title": "Doom 1993",
+  "Categories": ["Action", "Shooter"]
+}, {
       "url": "/gms/quake/",
       "image": "/img/quake.png",
       "title": "Quake",

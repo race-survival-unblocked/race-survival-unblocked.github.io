@@ -1,47 +1,47 @@
 const games = [
 
   {
-      "url": "/gms/motox3m/",
+      "url": "/gms/1/motox3m/",
       "image": "/img/mx3m-1.jpg",
       "title": "Moto X3M",
       "Categories": ["Car", "Sports", "Action", "Popular"]
     }, {
-      "url": "/gms/motox3m2/",
+      "url": "/gms/1/motox3m2/",
       "image": "/img/mx3m-2.jpg",
       "title": "Moto X3M 2",
       "Categories": ["Car", "Sports", "Action"]
     }, {
-      "url": "/gms/motox3m3/",
+      "url": "/gms/1/motox3m3/",
       "image": "/img/mx3m-3.jpg",
       "title": "Moto X3M 3",
       "Categories": ["Car", "Sports", "Action"]
     }, {
-      "url": "/gms/motox3m4/",
+      "url": "/gms/1/motox3m4/",
       "image": "/img/mx3m-4.jpg",
       "title": "Moto X3M 4",
       "Categories": ["Car", "Sports", "Action"]
     }, {
-      "url": "/gms/motox3m5/",
+      "url": "/gms/1/motox3m5/",
       "image": "/img/mx3m-5.jpg",
       "title": "Moto X3M 5",
       "Categories": ["Car", "Sports", "Action"]
     }, {
-      "url": "/gms/motox3m6/",
+      "url": "/gms/1/motox3m6/",
       "image": "/img/mx3m-6.jpg",
       "title": "Moto X3M 6",
       "Categories": ["Car", "Sports", "Action"]
     }, {
-      "url": "/gms/stickman-hook/",
+      "url": "/gms/1/stickman-hook/",
       "image": "/img/stickmanhook.png",
       "title": "Stickman Hook",
       "Categories": ["Stickman", "Action"]
     }, {
-      "url": "/gms/dreadhead-parkour",
+      "url": "/gms/1/dreadhead-parkour",
       "image": "/img/dreadhead-parkour.png",
       "title": "Dreadhead Parkour",
       "Categories": ["Action", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/dogeminer/",
+      "url": "/gms/1/dogeminer/",
       "image": "/img/dogeminer.png",
       "title": "DogeMiner",
       "Categories": ["Clicker", "Popular"]
@@ -51,202 +51,202 @@ const games = [
       "title": "DogeMiner 2",
       "Categories": ["Clicker", "Popular"]
     }, {
-      "url": "/gms/temple-of-boom/",
+      "url": "/gms/1/temple-of-boom/",
       "image": "/img/temple-of-boom.png",
       "title": "Temple of Boom",
       "Categories": ["Action", "Multiplayer"]
     }, {
-      "url": "/gms/justfall.lol/",
+      "url": "/gms/1/justfall.lol/",
       "image": "/img/justfall.png",
       "title": "JustFall.lol",
       "Categories": ["Action", "Multiplayer", "Parkour"]
     }, {
-      "url": "/gms/mineclicker-reexcavated/",
+      "url": "/gms/1/mineclicker-reexcavated/",
       "image": "/img/mineclicker.png",
       "title": "MineClicker",
       "Categories": ["Clicker"]
     }, {
-      "url": "/gms/subway-surfers/",
+      "url": "/gms/1/subway-surfers/",
       "image": "/img/subway-surfers.png",
       "title": "Subway Surfers",
       "Categories": ["Action", "Parkour", "Popular"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasBurgeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasBurgeria.swf",
       "image": "/img/burgeria.png",
       "title": "Papa's Burgeria",
       "Categories": ["Casual", "Flash", "Popular"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasTacomia.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasTacomia.swf",
       "image": "/img/tacomia.png",
       "title": "Papa's Tacomia",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasFreezeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasFreezeria.swf",
       "image": "/img/freezeria.png",
       "title": "Papa's Freezeria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasPizzeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasPizzeria.swf",
       "image": "/img/pizzeria.png",
       "title": "Papa's Pizzeria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasPancakeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasPancakeria.swf",
       "image": "/img/pancakeria.png",
       "title": "Papa's Pancakeria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasScooperia.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasScooperia.swf",
       "image": "/img/scooperia.png",
       "title": "Papa's Scooperia",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasSushiria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasSushiria.swf",
       "image": "/img/sushiria.png",
       "title": "Papa's Sushiria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasPastaria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasPastaria.swf",
       "image": "/img/pastaria.png",
       "title": "Papa's Pastaria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasCupcakeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasCupcakeria.swf",
       "image": "/img/cupcakeria.png",
       "title": "Papa's Cupcakeria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasHotdoggeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasHotdoggeria.swf",
       "image": "/img/hotdoggeria.png",
       "title": "Papa's Hotdoggeria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapasWingeria.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapasWingeria.swf",
       "image": "/img/wingeria.png",
       "title": "Papa's Wingeria",
       "Categories": ["Flash", "Casual"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapaLouie1.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapaLouie1.swf",
       "image": "/img/papalouie1.png",
       "title": "Papa Louie 1-When Pizzas Attack",
       "Categories": ["Flash", "Casual", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapaLouie2.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapaLouie2.swf",
       "image": "/img/papalouie2.png",
       "title": "Papa Louie 2-When Burgers Attack",
       "Categories": ["Flash", "Casual", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/papas-games/embed.html?game=SWF-FILES/PapaLouie3.swf",
+      "url": "/gms/1/papas-games/embed.html?game=SWF-FILES/PapaLouie3.swf",
       "image": "/img/papalouie3.png",
       "title": "Papa Louie 3-When Sundaes Attack",
       "Categories": ["Flash", "Casual", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/swerve/",
+      "url": "/gms/1/swerve/",
       "image": "/img/swerve.png",
       "title": "Swerve",
       "Categories": ["Action", "Car", "Popular"]
     }, {
-      "url": "/gms/sm64/",
+      "url": "/gms/1/sm64/",
       "image": "/img/sm64.png",
       "title": "Super Mario 64",
       "Categories": ["Casual", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/jetpack-joyride/",
+      "url": "/gms/1/jetpack-joyride/",
       "image": "/img/jetpackjoyride.png",
       "title": "Jetpack Joyride",
       "Categories": ["Parkour", "Popular", "Action"]
     }, {
-      "url": "/gms/flash/?game=SWF/angry-birds.swf",
+      "url": "/gms/1/flash/?game=SWF/angry-birds.swf",
       "image": "/img/angrybirds.png",
       "title": "Angry Birds",
       "Categories": ["Flash", "Action", "Popular"]
     }, {
-      "url": "/gms/flash/?game=SWF/badpiggies.swf",
+      "url": "/gms/1/flash/?game=SWF/badpiggies.swf",
       "image": "/img/badpiggies.png",
       "title": "Bad Piggies",
       "Categories": ["Flash", "Action", "Popular"]
     }, {
-      "url": "/gms/flash/?game=SWF/henry-stickmin-bank.swf",
+      "url": "/gms/1/flash/?game=SWF/henry-stickmin-bank.swf",
       "image": "/img/henrystickminbreakingthebank.webp",
       "title": "Henry Stickmin 1-Breaking The Bank",
       "Categories": ["Flash", "Stickman", "Action", "Adventure", "Casual"]
     }, {
-      "url": "/gms/flash/?game=SWF/henry-stickmin-prison.swf",
+      "url": "/gms/1/flash/?game=SWF/henry-stickmin-prison.swf",
       "image": "/img/henrystickminescapingtheprison.webp",
       "title": "Henry Stickmin 2-Escaping the Prison",
       "Categories": ["Flash", "Stickman", "Action", "Adventure", "Casual"]
     }, {
-      "url": "/gms/flash/?game=SWF/henry-stickmin-diamond.swf",
+      "url": "/gms/1/flash/?game=SWF/henry-stickmin-diamond.swf",
       "image": "/img/henrystickminstealingthediamond.webp",
       "title": "Henry Stickmin 3-Stealing the Diamond",
       "Categories": ["Flash", "Stickman", "Action", "Adventure", "Casual"]
     }, {
-      "url": "/gms/flash/?game=SWF/henry-stickmin-airship.swf",
+      "url": "/gms/1/flash/?game=SWF/henry-stickmin-airship.swf",
       "image": "/img/henrystickmininfiltratingtheairship.webp",
       "title": "Henry Stickmin 4-Infiltrating The Airship",
       "Categories": ["Flash", "Stickman", "Action", "Adventure", "Casual"]
     }, {
-      "url": "/gms/flash/?game=SWF/henry-stickmin-complex.swf",
+      "url": "/gms/1/flash/?game=SWF/henry-stickmin-complex.swf",
       "image": "/img/henrystickminfleeingthecomplex.webp",
       "title": "Henry Stickmin 5-Fleeing The Complex",
       "Categories": ["Flash", "Stickman", "Action", "Adventure", "Casual"]
     }, {
-      "url": "/gms/core-ball/",
+      "url": "/gms/1/core-ball/",
       "image": "/img/core-ball.png",
       "title": "Core Ball",
       "Categories": ["Puzzle", "Popular"]
     }, {
-      "url": "/gms/dante/",
+      "url": "/gms/1/dante/",
       "image": "/img/dante.png",
       "title": "Dante",
       "Categories": ["Action", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/geodash/",
+      "url": "/gms/1/geodash/",
       "image": "/img/geodash.png",
       "title": "Geometry Dash",
       "Categories": ["Action", "Adventure", "Parkour"]
     }, {
-      "url": "/gms/backrooms/",
+      "url": "/gms/1/backrooms/",
       "image": "/img/backrooms.png",
       "title": "Backrooms",
       "Categories": ["Horror", "Puzzle"]
     }, {
-      "url": "/gms/idle-breakout/",
+      "url": "/gms/1/idle-breakout/",
       "image": "/img/idlebreakout.png",
       "title": "Idle Breakout",
       "Categories": ["Clicker", "Casual"]
     }, {
-      "url": "/gms/fruit-ninja/",
+      "url": "/gms/1/fruit-ninja/",
       "image": "/img/fruit-ninja.jpg",
       "title": "Fruit Ninja",
       "Categories": ["Action", "Popular"]
     }, {
-      "url": "/gms/cannon-basketball-4/",
+      "url": "/gms/1/cannon-basketball-4/",
       "image": "/img/cannon-basketball-4.jpg",
       "title": "Cannon Basketball 4",
       "Categories": ["Puzzle", "Sports", "Popular"]
     }, {
-      "url": "/gms/paper-io-2/",
+      "url": "/gms/1/paper-io-2/",
       "image": "/img/paperio2.png",
       "title": "Paper io 2",
       "Categories": ["Action", "Multiplayer", "Popular"]
     }, {
-      "url": "/gms/retrobowl/",
+      "url": "/gms/1/retrobowl/",
       "image": "/img/retrobowl.png",
       "title": "Retro Bowl",
       "Categories": ["Sports", "Popular"]
     }, {
-      "url": "/gms/ovo/",
+      "url": "/gms/1/ovo/",
       "image": "/img/ovo.png",
       "title": "OvO",
       "Categories": ["Parkour", "Popular"]
     }, {
-      "url": "/gms/ovo-2/",
+      "url": "/gms/1/ovo-2/",
       "image": "/img/ovo-2.png",
       "title": "OvO 2",
       "Categories": ["Parkour", "Popular"]
     }, {
-      "url": "/gms/ovo-3/",
+      "url": "/gms/1/ovo-3/",
       "image": "/img/ovo-3.png",
       "title": "OvO 3",
       "Categories": ["Parkour", "Popular"]

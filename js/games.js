@@ -1,5 +1,6 @@
 const games = [
-{
+
+  {
     "url": "/gms/1/motox3m/",
     "image": "/img/mx3m-1.jpg",
     "title": "Moto X3M",
@@ -45,7 +46,7 @@ const games = [
     "title": "DogeMiner",
     "Categories": ["Clicker", "Popular"]
   }, {
-    "url": "https://15serge.github.io/dogeminer2/",
+    "url": "https://gtst1.github.io/dogeminer2/",
     "image": "/img/doge-miner-2.png",
     "title": "DogeMiner 2",
     "Categories": ["Clicker", "Popular"]
@@ -585,232 +586,232 @@ const games = [
     "title": "Eggy Car",
     "Categories": ["Car", "Casual"]
   }, {
-    "url": "/gms/house-of-hazards/",
+    "url": "/gms/4/house-of-hazards/",
     "image": "/img/house-of-hazards.png",
     "title": "House of Hazards",
     "Categories": ["Casual", "Popular", "Multiplayer"]
   }, {
-    "url": "/gms/stickwar/",
+    "url": "/gms/4/stickwar/",
     "image": "/img/stick-war.png",
     "title": "Stick War",
     "Categories": ["Stickman", "Action", "Popular"]
   }, {
-    "url": "/gms/stickmerge/",
+    "url": "/gms/4/stickmerge/",
     "image": "/img/stick-merge.png",
     "title": "Stick Merge",
     "Categories": ["Stickman", "Action", "Popular"]
   }, {
-    "url": "/gms/smash-karts/",
+    "url": "/gms/4/smash-karts/",
     "image": "/img/smash-karts.png",
     "title": "Smash Karts",
     "Categories": ["Car", "Action", "Popular", "Puzzle"]
   }, {
-    "url": "/gms/flash/?game=SWF/snailbob1.swf",
+    "url": "/gms/1/flash/?game=SWF/snailbob1.swf",
     "image": "/img/snailbob1.png",
     "title": "Snail Bob 1",
     "Categories": ["Flash", "Casual", "Adventure"]
   }, {
-    "url": "/gms/flash/?game=SWF/snailbob2.swf",
+    "url": "/gms/1/flash/?game=SWF/snailbob2.swf",
     "image": "/img/snailbob2.png",
     "title": "Snail Bob 2",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/flash/?game=SWF/snailbob3.swf",
+    "url": "/gms/1/flash/?game=SWF/snailbob3.swf",
     "image": "/img/snailbob3.png",
     "title": "Snail Bob 3",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/snailbob4/",
+    "url": "/gms/4/snailbob4/",
     "image": "/img/snailbob4.png",
     "title": "Snail Bob 4",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/snailbob5/",
+    "url": "/gms/4/snailbob5/",
     "image": "/img/snailbob5.png",
     "title": "Snail Bob 5",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/snailbob6/",
+    "url": "/gms/4/snailbob6/",
     "image": "/img/snailbob6.png",
     "title": "Snail Bob 6",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/snailbob7/",
+    "url": "/gms/4/snailbob7/",
     "image": "/img/snailbob7.png",
     "title": "Snail Bob 7",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/snailbob8/",
+    "url": "/gms/4/snailbob8/",
     "image": "/img/snailbob8.png",
     "title": "Snail Bob 8",
     "Categories": ["Flash", "Casual", "Adventure", "Puzzle"]
   }, {
-    "url": "/gms/happywheels/",
+    "url": "/gms/4/happywheels/",
     "image": "/img/happywheels.png",
     "title": "Happy Wheels",
     "Categories": ["Car", "Casual", "Adventure"]
   }, {
-    "url": "/gms/cut-the-rope/",
+    "url": "/gms/4/cut-the-rope/",
     "image": "/img/cut-the-rope.png",
     "title": "Cut the Rope",
     "Categories": ["Casual", "Puzzle"]
   }, {
-    "url": "/gms/flash/?game=SWF/flashtetris.swf",
+    "url": "/gms/1/flash/?game=SWF/flashtetris.swf",
     "image": "/img/tetris.png",
     "title": "Tetris",
     "Categories": ["Flash", "Casual", "Puzzle"]
   }, {
-    "url": "/gms/murder-game/",
+    "url": "/gms/4/murder-game/",
     "image": "/img/murder-game.png",
     "title": "Murder",
     "Categories": ["Action", "Popular"]
   }, {
-    "url": "/gms/hexgl/",
+    "url": "/gms/4/hexgl/",
     "image": "/img/hexgl.png",
     "title": "HexGL",
     "Categories": ["Car"]
   }, {
-    "url": "/gms/csgo-clicker/",
+    "url": "/gms/4/csgo-clicker/",
     "image": "/img/csgo-clicker.png",
     "title": "CSGO Clicker",
     "Categories": ["Clicker", "Casual"]
   }, {
-    "url": "/gms/google-snake/",
+    "url": "/gms/4/google-snake/",
     "image": "/img/google-snake.png",
     "title": "Google Snake",
     "Categories": ["Casual"]
   }, {
-    "url": "/gms/google-dino/",
+    "url": "/gms/4/google-dino/",
     "image": "/img/google-dino.png",
     "title": "Google Dino",
     "Categories": ["Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/raftwars.swf",
+    "url": "/gms/1/flash/?game=SWF/raftwars.swf",
     "image": "/img/raft-wars-1.png",
     "title": "Raft Wars",
     "Categories": ["Flash", "Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/raftwars2.swf",
+    "url": "/gms/1/flash/?game=SWF/raftwars2.swf",
     "image": "/img/raft-wars-2.png",
     "title": "Raft Wars",
     "Categories": ["Flash", "Casual"]
   }, {
-    "url": "/gms/ai-in-the-sky/",
+    "url": "/gms/4/ai-in-the-sky/",
     "image": "/img/ai-in-the-sky.png",
     "title": "AI in the Sky",
     "Categories": ["Shooter"]
   }, {
-    "url": "/gms/minesweeper/",
+    "url": "/gms/4/minesweeper/",
     "image": "/img/minesweeper.png",
     "title": "Minesweeper",
     "Categories": ["Casual", "Puzzle"]
   }, {
-    "url": "/gms/mario/",
+    "url": "/gms/4/mario/",
     "image": "/img/mario.png",
     "title": "Mario",
     "Categories": ["Adventure", "Parkour", "Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/bloxorz.swf",
+    "url": "/gms/1/flash/?game=SWF/bloxorz.swf",
     "image": "/img/bloxorz.png",
     "title": "Bloxorz",
     "Categories": ["Flash", "Casual", "Puzzle"]
   }, {
-    "url": "/gms/flash/?game=SWF/commando2_1.swf",
+    "url": "/gms/1/flash/?game=SWF/commando2_1.swf",
     "image": "/img/commando2.png",
     "title": "Commando 2",
     "Categories": ["Flash", "Action", "Shooter"]
   }, {
-    "url": "/gms/flash/?game=SWF/minecrafttd.swf",
+    "url": "/gms/1/flash/?game=SWF/minecrafttd.swf",
     "image": "/img/minecraft-tower-defence.png",
     "title": "Minecraft TD",
     "Categories": ["Flash", "Action", "Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/supermario63.swf",
+    "url": "/gms/1/flash/?game=SWF/supermario63.swf",
     "image": "/img/super-mario-63.png",
     "title": "SM63",
     "Categories": ["Flash", "Adventure", "Parkour", "Casual"]
   }, {
-    "url": "/gms/doodle-jump/",
+    "url": "/gms/4/doodle-jump/",
     "image": "/img/doodle-jump.png",
     "title": "Doodle Jump",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/pvz.swf",
+    "url": "/gms/1/flash/?game=SWF/pvz.swf",
     "image": "/img/pvz.png",
     "title": "Plants vs Zombies",
     "Categories": ["Flash", "Action", "Casual"]
   }, {
-    "url": "/gms/vex1/",
+    "url": "/gms/4/vex1/",
     "image": "/img/vex1.png",
     "title": "Vex 1",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex2/",
+    "url": "/gms/4/vex2/",
     "image": "/img/vex2.png",
     "title": "Vex 2",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex3/",
+    "url": "/gms/4/vex3/",
     "image": "/img/vex3.png",
     "title": "Vex 3",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex4/",
+    "url": "/gms/4/vex4/",
     "image": "/img/vex4.png",
     "title": "Vex 4",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex5/",
+    "url": "/gms/4/vex5/",
     "image": "/img/vex5.png",
     "title": "Vex 5",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex6/",
+    "url": "/gms/4/vex6/",
     "image": "/img/vex6.png",
     "title": "Vex 6",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex7/",
+    "url": "/gms/4/vex7/",
     "image": "/img/vex7.png",
     "title": "Vex 7",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/vex8/",
+    "url": "/gms/4/vex8/",
     "image": "/img/vex8.png",
     "title": "Vex 8",
     "Categories": ["Parkour", "Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/alien_hominid.swf",
+    "url": "/gms/1/flash/?game=SWF/alien_hominid.swf",
     "image": "/img/alienhominid.png",
     "title": "Alien Homonid",
     "Categories": ["Flash", "Action", "Shooter"]
   }, {
-    "url": "/gms/flash/?game=SWF/age_of_war.swf",
+    "url": "/gms/1/flash/?game=SWF/age_of_war.swf",
     "image": "/img/ageofwar.png",
     "title": "Age of War",
     "Categories": ["Flash"]
   }, {
-    "url": "/gms/flash/?game=SWF/interactivebuddy.swf",
+    "url": "/gms/1/flash/?game=SWF/interactivebuddy.swf",
     "image": "/img/interactivebuddy.png",
     "title": "Interactive Buddy",
     "Categories": ["Flash", "Casual"]
   }, {
-    "url": "/gms/flash/?game=SWF/portal.swf",
+    "url": "/gms/1/flash/?game=SWF/portal.swf",
     "image": "/img/portal.png",
     "title": "Portal Flash",
     "Categories": ["Flash", "Puzzle"]
   }, {
-    "url": "/gms/bacon-may-die/",
+    "url": "/gms/4/bacon-may-die/",
     "image": "/img/bacon-may-die.png",
     "title": "Bacon May Die",
     "Categories": ["Casual", "Action"]
   }, {
-    "url": "/gms/rabbit-samurai/",
+    "url": "/gms/4/rabbit-samurai/",
     "image": "/img/rabbit-samurai.png",
     "title": "Rabbit Samurai",
     "Categories": ["Puzzle", "Parkour"]
   }, {
-    "url": "/gms/rabbit-samurai2/",
+    "url": "/gms/4/rabbit-samurai2/",
     "image": "/img/rabbit-samurai2.png",
     "title": "Rabbit Samurai 2",
     "Categories": ["Puzzle", "Parkour"]
@@ -1270,6 +1271,7 @@ const games = [
     "title": "Zombie Derby Pixel Survival",
     "Categories": ["Car", "Popular"]
   }
+
 ];
 function getRandomItems(arr, count) {
   const shuffled = [...arr].sort(() => Math.random() - 0.5);

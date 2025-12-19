@@ -1145,132 +1145,132 @@ const games = [
      "image": "/img/retrobowlcollege.png",
      "title": "Retro Bowl College",
      "Categories": ["Sports"]
- }, {
-     "url": "/gms/pou/",
-     "image": "/img/pou.png",
-     "title": "Pou",
-     "Categories": ["none"]
- }, {
-     "url": "/gms/blockblast/",
-     "image": "/img/blockblast.png",
-     "title": "Block Blast",
-     "Categories": ["Puzzle"]
- }, {
-     "url": "/gms/apple-knight/",
-     "image": "/img/apple-knight.png",
-     "title": "Apple Knight",
-     "Categories": ["Adventure", "Parkour"]
- }, {
-     "url": "/gms/dreader/",
-     "image": "/img/dreader.png",
-     "title": "Dreader",
-     "Categories": ["Horror"]
- }, {
-     "url": "/gms/knife-hit/",
-     "image": "/img/knife-hit.png",
-     "title": "Knife Hit",
-     "Categories": ["none"]
- }, {
-     "url": "/gms/wbwwb/",
-     "image": "/img/wbwwb.png",
-     "title": "We Become What We Behold",
-     "Categories": ["Popular"]
- }, {
-     "url": "/gms/adventure-capitalist/",
-     "image": "/img/adventure-capitalist.png",
-     "title": "AdVenture Capitalist",
-     "Categories": ["Clicker", "Popular"]
- }, {
-     "url": "/gms/race-survival/",
-     "image": "/img/race-survival.png",
-     "title": "Race Survival",
-     "Categories": ["Car"]
- }, {
-     "url": "./static/kirka.html",
-     "image": "/img/kirka.png",
-     "title": "Kirka",
-     "Categories": ["Shooter", "io"]
- }, {
-     "url": "./static/craftnite.html",
-     "image": "/img/craftnite.png",
-     "title": "CraftNite",
-     "Categories": ["Shooter", "io"]
- }, {
-     "url": "./static/deadshot.html",
-     "image": "/img/deadshot.png",
-     "title": "DeadShot.io",
-     "Categories": ["Shooter", "io"]
- }, {
-     "url": "./static/fortzone.html",
-     "image": "/img/fortzone.png",
-     "title": "Fortzone Battle Royale",
-     "Categories": ["Shooter", "io"]
- }, {
-     "url": "/gms/escape-road/",
-     "image": "/img/escape-road.png",
-     "title": "Escape Road",
-     "Categories": ["Car", "Popular"]
- }, {
-     "url": "./static/escape-road-2.html",
-     "image": "/img/escape-road-2.png",
-     "title": "Escape Road 2",
-     "Categories": ["Car", "Popular"]
- }, {
-     "url": "/gms/swingo/",
-     "image": "/img/swingo.png",
-     "title": "Swingo",
-     "Categories": ["Parkour", "Popular"]
- }, {
-     "url": "/gms/highway-traffic/",
-     "image": "/img/highway-traffic.png",
-     "title": "Highway Traffic",
-     "Categories": ["Car"]
- }, {
-     "url": "/gms/crazy-shooters/",
-     "image": "/img/crazy-shooters.png",
-     "title": "Crazy Shooters",
-     "Categories": ["Shooter"]
- }, {
-     "url": "/gms/crazycattle3d/",
-     "image": "/img/crazycattle3d.png",
-     "title": "Crazy Cattle 3D",
-     "Categories": ["Popular"]
- }, {
-     "url": "/gms/gangsta-island/",
-     "image": "/img/gangsta-island.png",
-     "title": "Gangsta Island",
-     "Categories": ["Popular"]
- }, {
-     "url": "/gms/hungry-lamu/",
-     "image": "/img/hungry-lamu.png",
-     "title": "Hungry Lamu",
-     "Categories": ["Horror"]
- }, {
-     "url": "/gms/level-devil/",
-     "image": "/img/level-devil.png",
-     "title": "Level Devil",
-     "Categories": ["Parkour", "Popular"]
- }, {
-     "url": "/gms/sandtris/",
-     "image": "/img/sandtris.png",
-     "title": "Sandtris",
-     "Categories": ["Puzzle"]
- }, {
-     "url": "/gms/slot-or-not/",
-     "image": "/img/slot-or-not.png",
-     "title": "Slot or Not",
-     "Categories": ["Adventure"]
- }, {
-     "url": "/gms/space-waves/",
-     "image": "/img/space-waves.png",
-     "title": "Space Waves",
-     "Categories": ["Parkour"]
- }, {
-     "url": "/gms/zombie-derby-pixel-survival/",
-     "image": "/img/zombie-derby-pixel-survival.png",
-     "title": "Zombie Derby Pixel Survival",
-     "Categories": ["Car", "Popular"]
- }
+ },    {
+        "url": "/gms/7/pou/",
+        "image": "/img/pou.png",
+        "title": "Pou",
+        "Categories": ["none"]
+    }, {
+        "url": "/gms/7/blockblast/",
+        "image": "/img/blockblast.png",
+        "title": "Block Blast",
+        "Categories": ["Puzzle"]
+    }, {
+        "url": "/gms/7/apple-knight/",
+        "image": "/img/apple-knight.png",
+        "title": "Apple Knight",
+        "Categories": ["Adventure", "Parkour"]
+    }, {
+        "url": "/gms/7/dreader/",
+        "image": "/img/dreader.png",
+        "title": "Dreader",
+        "Categories": ["Horror"]
+    }, {
+        "url": "/gms/7/knife-hit/",
+        "image": "/img/knife-hit.png",
+        "title": "Knife Hit",
+        "Categories": ["none"]
+    }, {
+        "url": "/gms/7/wbwwb/",
+        "image": "/img/wbwwb.png",
+        "title": "We Become What We Behold",
+        "Categories": ["Popular"]
+    }, {
+        "url": "/gms/7/adventure-capitalist/",
+        "image": "/img/adventure-capitalist.png",
+        "title": "AdVenture Capitalist",
+        "Categories": ["Clicker", "Popular"]
+    }, {
+        "url": "/gms/7/race-survival/",
+        "image": "/img/race-survival.png",
+        "title": "Race Survival",
+        "Categories": ["Car"]
+    }, {
+        "url": "./static/kirka.html",
+        "image": "/img/kirka.png",
+        "title": "Kirka",
+        "Categories": ["Shooter", "io"]
+    }, {
+        "url": "./static/craftnite.html",
+        "image": "/img/craftnite.png",
+        "title": "CraftNite",
+        "Categories": ["Shooter", "io"]
+    }, {
+        "url": "./static/deadshot.html",
+        "image": "/img/deadshot.png",
+        "title": "DeadShot.io",
+        "Categories": ["Shooter", "io"]
+    }, {
+        "url": "./static/fortzone.html",
+        "image": "/img/fortzone.png",
+        "title": "Fortzone Battle Royale",
+        "Categories": ["Shooter", "io"]
+    }, {
+        "url": "/gms/7/escape-road/",
+        "image": "/img/escape-road.png",
+        "title": "Escape Road",
+        "Categories": ["Car", "Popular"]
+    }, {
+        "url": "./static/escape-road-2.html",
+        "image": "/img/escape-road-2.png",
+        "title": "Escape Road 2",
+        "Categories": ["Car", "Popular"]
+    }, {
+        "url": "/gms/7/swingo/",
+        "image": "/img/swingo.png",
+        "title": "Swingo",
+        "Categories": ["Parkour", "Popular"]
+    }, {
+        "url": "/gms/7/highway-traffic/",
+        "image": "/img/highway-traffic.png",
+        "title": "Highway Traffic",
+        "Categories": ["Car"]
+    }, {
+        "url": "/gms/7/crazy-shooters/",
+        "image": "/img/crazy-shooters.png",
+        "title": "Crazy Shooters",
+        "Categories": ["Shooter"]
+    }, {
+        "url": "/gms/7/crazycattle3d/",
+        "image": "/img/crazycattle3d.png",
+        "title": "Crazy Cattle 3D",
+        "Categories": ["Popular"]
+    }, {
+        "url": "/gms/7/gangsta-island/",
+        "image": "/img/gangsta-island.png",
+        "title": "Gangsta Island",
+        "Categories": ["Popular"]
+    }, {
+        "url": "/gms/7/hungry-lamu/",
+        "image": "/img/hungry-lamu.png",
+        "title": "Hungry Lamu",
+        "Categories": ["Horror"]
+    }, {
+        "url": "/gms/7/level-devil/",
+        "image": "/img/level-devil.png",
+        "title": "Level Devil",
+        "Categories": ["Parkour", "Popular"]
+    }, {
+        "url": "/gms/7/sandtris/",
+        "image": "/img/sandtris.png",
+        "title": "Sandtris",
+        "Categories": ["Puzzle"]
+    }, {
+        "url": "/gms/7/slot-or-not/",
+        "image": "/img/slot-or-not.png",
+        "title": "Slot or Not",
+        "Categories": ["Adventure"]
+    }, {
+        "url": "/gms/7/space-waves/",
+        "image": "/img/space-waves.png",
+        "title": "Space Waves",
+        "Categories": ["Parkour"]
+    }, {
+        "url": "/gms/7/zombie-derby-pixel-survival/",
+        "image": "/img/zombie-derby-pixel-survival.png",
+        "title": "Zombie Derby Pixel Survival",
+        "Categories": ["Car", "Popular"]
+    }
 
 ];
 function getRandomItems(arr, count) {

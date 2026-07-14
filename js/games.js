@@ -88,8 +88,12 @@ function loadGames(list, divid) {
 
     div.onclick = () => {
       
-      const e = (g.title || "").replace(/\s+/g, "-").replace(/:/g, "");
-      const ee = e.replace('---', '-');
+const e = (g.title || "")
+  .toLowerCase()
+  .replace(/\s+/g, "-")
+  .replace(/:/g, "");
+
+const ee = e.replace('---', '-');
       window.location.href = `/g/${ee}.html`;
     };
 
